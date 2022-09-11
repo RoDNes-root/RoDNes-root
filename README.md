@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 🤝 I’m looking for help with [Hızlı CV](hizlicv.com)
+- 🤝 I’m looking for help with [Hızlı CV](https://hizlicv.com)
 
 - 📫 How to reach me **beytullahrodnes@gmail.com**
 
