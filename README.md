@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/beytullahtapan" target="blank"><img src="https://img.shields.io/twitter/follow/beytullahtapan?logo=twitter&style=for-the-badge" alt="beytullahtapan" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **GO**
 
 - 🤝 I’m looking for help with [Hızlı CV](https://hizlicv.com)
 
