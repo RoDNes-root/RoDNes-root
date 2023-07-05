@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beytullah Tapan</h1>
 <h3 align="center">JR.back end developer</h3>
 
-<p align="left"> <a href="https://twitter.com/beytullahtpn" target="blank"><img src="https://img.shields.io/twitter/follow/beytullahtapan?logo=twitter&style=for-the-badge" alt="beytullahtpn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/beytullahtpn" target="blank"><img src="https://img.shields.io/twitter/follow/beytullahtpn?logo=twitter&style=for-the-badge" alt="beytullahtpn" /></a> </p>
 
 - 🌱 I’m currently learning **GO**
 
