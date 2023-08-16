@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodnes-root&label=Profile%20views&color=0e75b6&style=flat" alt="rodnes-root" /> </p>
 
-- 🌱 I’m currently learning **GO-C-.Net**
-
-- 👨‍💻 All of my projects are available at [beytullahtapan.dev](beytullahtapan.dev)
-
-- 📝 I regularly write articles on [beytullahtapan.dev/blog](beytullahtapan.dev/blog)
-
-- 💬 Ask me about **C-JS**
-
 - 📫 How to reach me **beytullahrodnes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
