@@ -71,9 +71,4 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/35/38/f6/3538f6025b6b3be4aee2e21cf2082633.jpg"  />
-</div>
-
 ###
